@@ -1,0 +1,302 @@
+Date: Wed Jun 10 17:43:56 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 2,7625 EUR
+(Tax Amount:null)
+Payment: 3,0000 EUR
+Balance: 0,2375 EUR
+--------------------------------------
+Date: Wed Jun 10 17:49:53 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 2,7625 EUR
+(Tax Amount:null)
+Payment: 3,0000 EUR
+Balance: 0,2375 EUR
+--------------------------------------
+Date: Wed Jun 10 17:50:08 EEST 2020
+2 - 10,0000 EUR - Product2 (x3) (Subtotal: 30,0000 EUR) Without Discount
+
+Total (without discount): 30,0000 EUR
+Total: 12,7500 EUR
+(Tax Amount:null)
+Payment: 15,0000 EUR
+Balance: 2,2500 EUR
+--------------------------------------
+Date: Wed Jun 10 17:50:24 EEST 2020
+3 - 4,0000 EUR - Product3 (x4) (Subtotal: 16,0000 EUR) Without Discount
+
+Total (without discount): 16,0000 EUR
+Total: 10,8800 EUR
+(Tax Amount:null)
+Payment: 9,0000 EUR
+Balance: -1,8800 EUR
+--------------------------------------
+Date: Wed Jun 10 17:50:48 EEST 2020
+4 - 5,0000 EUR - Product4 (x2) (Subtotal: 10,0000 EUR) Without Discount
+
+Total (without discount): 10,0000 EUR
+Total: 10,0000 EUR
+(Tax Amount:null)
+Payment: 11,0000 EUR
+Balance: 1,0000 EUR
+--------------------------------------
+Date: Wed Jun 10 17:54:43 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 2,7625 EUR
+(Tax Amount:null)
+Payment: 3,0000 EUR
+Balance: 0,2375 EUR
+--------------------------------------
+Date: Wed Jun 10 17:54:56 EEST 2020
+2 - 10,0000 EUR - Product2 (x4) (Subtotal: 40,0000 EUR) Without Discount
+
+Total (without discount): 40,0000 EUR
+Total: 17,0000 EUR
+(Tax Amount:null)
+Payment: 19,0000 EUR
+Balance: 2,0000 EUR
+--------------------------------------
+Date: Wed Jun 10 18:02:03 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 3,2500 EUR
+(Tax Amount:null)
+Payment: 4,0000 EUR
+Balance: 0,7500 EUR
+--------------------------------------
+Date: Wed Jun 10 18:02:15 EEST 2020
+3 - 4,0000 EUR - Product3 (x2) (Subtotal: 8,0000 EUR) Without Discount
+
+Total (without discount): 8,0000 EUR
+Total: 6,4000 EUR
+(Tax Amount:null)
+Payment: 8,0000 EUR
+Balance: 1,6000 EUR
+--------------------------------------
+Date: Wed Jun 10 18:02:36 EEST 2020
+5 - 2,0000 EUR - Product5 (x2) (Subtotal: 4,0000 EUR) Without Discount
+
+Total (without discount): 4,0000 EUR
+Total: 4,0000 EUR
+(Tax Amount:null)
+Payment: 5,0000 EUR
+Balance: 1,0000 EUR
+--------------------------------------
+Date: Wed Jun 10 18:44:26 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 3,2500 EUR
+(Tax Amount:null)
+Payment: 4,0000 EUR
+Balance: 0,7500 EUR
+--------------------------------------
+Date: Wed Jun 10 18:44:52 EEST 2020
+1 - 6,5000 EUR - Product1 (x2) (Subtotal: 13,0000 EUR) Without Discount
+
+Total (without discount): 13,0000 EUR
+Total: 2,7625 EUR
+(Tax Amount:null)
+Payment: 3,0000 EUR
+Balance: 0,2375 EUR
+--------------------------------------
+Date: Wed Jun 10 18:45:11 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+2 - 10,0000 EUR - Product2 (x1) (Subtotal: 10,0000 EUR) Without Discount
+
+Total (without discount): 16,5000 EUR
+Total: 3,5062 EUR
+(Tax Amount:null)
+Payment: 4,0000 EUR
+Balance: 0,4938 EUR
+--------------------------------------
+Date: Wed Jun 10 21:38:47 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 1,3812 EUR
+(Tax Amount:null)
+Payment: 2,0000 EUR
+Balance: 0,6188 EUR
+--------------------------------------
+Date: Thu Jun 11 17:55:12 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total: 6,1750 EUR
+(Tax Amount:null)
+Payment: 7,0000 EUR
+Balance: 0,8250 EUR
+--------------------------------------
+Date: Fri Jun 12 14:32:38 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+2 - 10,0000 EUR - Product2 (x1) (Subtotal: 10,0000 EUR) Without Discount
+
+Total (without discount): 16,5000 EUR
+Total: 8,2500 EUR
+(Tax Amount:null)
+Payment: 8,5000 EUR
+Balance: 0,2500 EUR
+--------------------------------------
+Date: Fri Jun 12 16:40:47 EEST 2020
+1 - 6,5000 EUR - Product1 (x10) (Subtotal: 65,0000 EUR) Without Discount
+2 - 10,0000 EUR - Product2 (x10) (Subtotal: 100,0000 EUR) Without Discount
+
+Total (without discount): 165,0000 EUR
+Total (with discount): 82,5000 EUR
+(Tax Amount): 23,0000 EUR)
+Total (With Tax): 105,5000 EUR)
+Payment: 105,0000 EUR
+Balance: 22,5000 EUR
+--------------------------------------
+Date: Fri Jun 12 16:45:30 EEST 2020
+1 - 6,5000 EUR - Product1 (x10) (Subtotal: 65,0000 EUR) Without Discount
+2 - 10,0000 EUR - Product2 (x10) (Subtotal: 100,0000 EUR) Without Discount
+
+Total (without discount): 165,0000 EUR
+Total (with discount): 82,5000 EUR
+(Tax Amount): 23,0000 EUR)
+Total (With Tax): 105,5000 EUR)
+Payment: 106,0000 EUR
+Balance: 0,5000 EUR
+--------------------------------------
+Date: Fri Jun 12 16:50:28 EEST 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+2 - 10,0000 EUR - Product2 (x5) (Subtotal: 50,0000 EUR) Without Discount
+
+Total (without discount): 56,5000 EUR
+Total (with discount): 28,2500 EUR
+Tax Amount: 6,3000 EUR)
+Total (With Tax): 34,5500 EUR)
+Payment: 35,0000 EUR
+Balance: 0,4500 EUR
+--------------------------------------
+Date: Sat Jun 13 16:53:01 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 1,5437 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 2,8438 EUR)
+Payment: 1,0000 EUR
+Balance: -1,8438 EUR
+--------------------------------------
+Date: Sat Jun 13 16:54:30 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 1,5437 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 2,8438 EUR)
+Payment: 3,0000 EUR
+Balance: 0,1562 EUR
+--------------------------------------
+Date: Sat Jun 13 17:01:23 EET 2020
+2 - 10,0000 EUR - Product2 (x3) (Subtotal: 30,0000 EUR) Without Discount
+1 - 6,5000 EUR - Product1 (x5) (Subtotal: 32,5000 EUR) Without Discount
+4 - 5,0000 EUR - Product4 (x5) (Subtotal: 25,0000 EUR) Without Discount
+
+Total (without discount): 87,5000 EUR
+Total (with discount): 53,7500 EUR
+Tax Amount: 14,5000 EUR)
+Total (With Tax): 68,2500 EUR)
+Payment: 70,0000 EUR
+Balance: 1,7500 EUR
+--------------------------------------
+Date: Sat Jun 13 17:09:11 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 1,5437 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 2,8438 EUR)
+Payment: 5,0000 EUR
+Balance: 2,1562 EUR
+--------------------------------------
+Date: Sat Jun 13 17:14:16 EET 2020
+5 - 2,0000 EUR - Product5 (x5) (Subtotal: 10,0000 EUR) Without Discount
+
+Total (without discount): 10,0000 EUR
+Total (with discount): 8,5737 EUR
+Tax Amount: 2,0000 EUR)
+Total (With Tax): 10,5738 EUR)
+Payment: 15,0000 EUR
+Balance: 4,4262 EUR
+--------------------------------------
+Date: Sat Jun 13 17:19:52 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+2 - 10,0000 EUR - Product2 (x2) (Subtotal: 20,0000 EUR) Without Discount
+
+Total (without discount): 26,5000 EUR
+Total (with discount): 13,2500 EUR
+Tax Amount: 3,3000 EUR)
+Total (With Tax): 16,5500 EUR)
+Payment: 18,0000 EUR
+Balance: 1,4500 EUR
+--------------------------------------
+Date: Sat Jun 13 19:00:18 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 3,2500 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 4,5500 EUR)
+Payment: 5,0000 EUR
+Balance: 0,4500 EUR
+--------------------------------------
+Date: Sat Jun 13 19:00:55 EET 2020
+6 - 1,9900 EUR - Product6 (x4) (Subtotal: 7,9600 EUR) Without Discount
+
+Total (without discount): 7,9600 EUR
+Total (with discount): 4,8397 EUR
+Tax Amount: 0,3980 EUR)
+Total (With Tax): 5,2377 EUR)
+Payment: 6,0000 EUR
+Balance: 0,7623 EUR
+--------------------------------------
+Date: Sat Jun 13 20:33:16 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 1,5437 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 2,8438 EUR)
+Payment: 3,0000 EUR
+Balance: 0,1562 EUR
+--------------------------------------
+Date: Sat Jun 13 22:24:27 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 3,2500 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 4,5500 EUR)
+Payment: 4,5500 EUR
+Balance: -0,0000 EUR
+--------------------------------------
+Date: Sat Jun 13 22:41:14 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 0,0000 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 1,3000 EUR)
+Payment: 1500,0000 EUR
+Balance: 1498,7000 EUR
+--------------------------------------
+Date: Sun Jun 14 23:09:15 EET 2020
+1 - 6,5000 EUR - Product1 (x1) (Subtotal: 6,5000 EUR) Without Discount
+
+Total (without discount): 6,5000 EUR
+Total (with discount): 3,2500 EUR
+Tax Amount: 1,3000 EUR)
+Total (With Tax): 4,5500 EUR)
+Payment: 5,0000 EUR
+Balance: 0,4500 EUR
+--------------------------------------

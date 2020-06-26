@@ -1,0 +1,10 @@
+1 6.5 Product1 Food 50
+2 10 Product2 Alcohol 50
+3 4 Product3 Drink
+4 5 Product4 Food 10
+5 2 Product5 Food 5
+6 1.99 Product6 Drink 20
+7 15 Product7 Alcohol 10 TRY
+8 3.65 Product8 Drink 5
+9 7 Product9 Food
+10 8 Product10 Drink 50 GBP
